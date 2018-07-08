@@ -1,3 +1,4 @@
 # CLI-App
+Select a product
 ![Image selecting a product]
-(CLI-App/pick_product.png)
+(https://github.com/DanielValdivieso/CLI-App/blob/master/pick_product.png?raw=true)
