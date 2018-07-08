@@ -1,8 +1,13 @@
 # CLI-App
-Select a product
+1.Select a product
 ![Image selecting a product]
 (https://github.com/DanielValdivieso/CLI-App/blob/master/pick_product.png?raw=true)
 
-Adding Quantity
+2.Adding Quantity
 ![Image of Quantity]
 (https://github.com/DanielValdivieso/CLI-App/blob/master/add_quantity.png?raw=true)
+
+
+3. Pocessing
+![Image of processing]
+(https://github.com/DanielValdivieso/CLI-App/blob/master/processing.png?raw=true)
