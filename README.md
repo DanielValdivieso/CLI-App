@@ -18,3 +18,7 @@
 **5. Request more items over stock**
 ![Image of Over stock]
 (https://github.com/DanielValdivieso/CLI-App/blob/master/pick%20new%20product%20and%20request%20over%20quantity.png?raw=true)
+
+**6. SQL Workbench**
+![Image of SQL]
+(CLI-App/SQL.png)
