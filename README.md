@@ -1,6 +1,6 @@
 # CLI-App
 **1. Select a product**
- ![Image selecting a product]
+ Format:![Image selecting a product]
  (https://github.com/DanielValdivieso/CLI-App/blob/master/pick_product.png?raw=true)
 
  **2. Adding Quantity**
