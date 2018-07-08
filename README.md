@@ -10,4 +10,4 @@
 
 3. Pocessing
 ![Image of processing]
-(https://github.com/DanielValdivieso/CLI-App/blob/master/processing.png?raw=true)
+(https://raw.githubusercontent.com/DanielValdivieso/CLI-App/master/processing.png)
