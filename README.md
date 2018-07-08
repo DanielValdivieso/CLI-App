@@ -21,4 +21,4 @@
 
 **6. SQL Workbench**
 ![Image of SQL]
-(CLI-App/SQL.png)
+(https://github.com/DanielValdivieso/CLI-App/blob/master/SQL.png?raw=true)
